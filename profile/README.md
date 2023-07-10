@@ -36,6 +36,10 @@
 - **[Update]** 버전 업데이트
 
 ---
+### Architecture
+<img width="632" alt="image" src="https://github.com/highbally/.github/assets/86800087/e89c7928-9388-4565-b85a-7a8a58fe7ccb">
+
+---
 ### 와이어프레임
 ![Highbally](https://github.com/highbally/.github/assets/86800087/05adc394-eeac-429a-884f-e4083f3ceb07)
 

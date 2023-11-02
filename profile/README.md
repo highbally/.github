@@ -1,4 +1,4 @@
-# 하이볼리 <img src="https://github.com/highbally/.github/assets/86800087/a4ae6af3-49e2-4f87-84f3-8f53a12d6572" align=left width=100>
+# [하이볼리](https://linktr.ee/highbally_official) <img src="https://github.com/highbally/.github/assets/86800087/a4ae6af3-49e2-4f87-84f3-8f53a12d6572" align=left width=100>
 
 
 > 하이볼을 하루에 한 잔 무료로 제공하는 “하이볼 구독 어플리케이션, 하이볼리” 🍹
